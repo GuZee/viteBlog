@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "lib": ["deno.window"],
+        "types": [
+            "https://deno.land/x/oak/types.d.ts",
+            "https://deno.land/x/cors/types.d.ts"
+        ],
+        "strict": true
+    },
+    "importMap": "import_map.json",
+    "tasks": {
+        "dev": "deno run --allow-net --allow-read --watch main.ts"
+    }
+}

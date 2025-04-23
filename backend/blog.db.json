@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "第一篇博客文章",
+    "content": "这是我的第一篇博客文章内容...",
+    "author": "管理员",
+    "created_at": "2025-04-21T04:12:16.764Z"
+  },
+  {
+    "id": 2,
+    "title": "Deno 简介",
+    "content": "Deno是一个JavaScript和TypeScript运行时，默认安全并支持TypeScript...",
+    "author": "技术团队",
+    "created_at": "2025-04-21T04:12:16.765Z"
+  },
+  {
+    "id": 3,
+    "title": "React 18 新特性",
+    "content": "React 18带来了许多令人兴奋的新特性，包括自动批处理更新、并发特性等...",
+    "author": "前端开发者",
+    "created_at": "2025-04-21T04:12:16.765Z"
+  },
+  {
+    "id": 4,
+    "title": "我的文章",
+    "content": "这是我的第一篇blogggxm",
+    "author": "guzee",
+    "created_at": "2025-04-21T04:17:58.171Z"
+  }
+]
